@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 - 🌱 I’m currently leveling up my Java, C#, Python, et. al.
 - 📚 I'm interested in cybersecurity, AI, ML, math and science
-- 👯 I’m looking to collaborate on anything interesting
+- 👯 I’m looking to collaborate on most anything interesting
 
 <!--
 **tpenn/tpenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
